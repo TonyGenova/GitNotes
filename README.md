@@ -1,5 +1,5 @@
 ### GitNotes
-#####Basic notes for git bash use
+##### Basic notes for git bash use
 
 Create a local directory in current directory - need tilde to reference current directory
 ```bash
